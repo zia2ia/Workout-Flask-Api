@@ -6,7 +6,7 @@ The Workout Tracker API is designed to help users manage their workout routines 
 The RESTful API is built using Flask and SQLite. The application ensures proper validation for data entries and includes features to enforce limits on workout repetitions and weight.
 
 ### Work in Progress
-This project is a work in progress, and features and improvements will continue to be added over time. 
+This project is a work in progress, and as more testing is done features and improvements will continue to be added over time.
 
 ## Project Structure 
 The project is organized with a Flask application that serves as the backend API. The data layer is handled by SQLAlchemy, which provides a powerful Object Relational Mapping (ORM) system, making it easy to interact with the SQLite database. The database stores workout entries with constraints to ensure data integrity.
